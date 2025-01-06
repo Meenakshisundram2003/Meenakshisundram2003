@@ -31,10 +31,11 @@ Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystems&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-0076C0?style=for-the-badge&logo=autodesk&logoColor=white) ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)  
 ![MSC Adams](https://img.shields.io/badge/MSC%20Adams-0078D4?style=for-the-badge&logoColor=white) ![Inventor](https://img.shields.io/badge/Inventor-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
 
-**Project Management Tools:**  
+**Project Management Tools:** 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)  
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)  
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 
 ## 🔗 Connect With Me
 
