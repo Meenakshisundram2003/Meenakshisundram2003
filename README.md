@@ -13,9 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise 
 
 - 💬 Ask me about robotic systems modeling, automation, and mechatronics.
 
-- 📫 How to reach me: 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundhar422003@gmail.com) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sundhar2003@outlook.in)
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundhar422003@gmail.com) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sundhar2003@outlook.in)
 
 - ⚡ Fun fact: I once designed an Arduino-powered Line Follower Robot that secured 1st place in a competition!
 
