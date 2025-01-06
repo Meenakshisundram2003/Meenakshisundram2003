@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise 
 ![MSC Adams](https://img.shields.io/badge/MSC%20Adams-0078D4?style=for-the-badge&logoColor=white) ![Inventor](https://img.shields.io/badge/Inventor-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
 
 **Project Management Tools:**  
-![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+![Microsoft Office](https://img.shields.io/badge/Microsoft-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)  
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)  
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
