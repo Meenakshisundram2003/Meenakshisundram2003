@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise 
 
 **Programming Tools:**  
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)  
 
 **Python Libraries:**  
