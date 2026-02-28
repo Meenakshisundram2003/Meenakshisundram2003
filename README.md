@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working some projects with Stretch-2 Robot.
+- 🔭 I’m currently working some projects with Stretch-3 Robot.
 
 - 🌱 I’m currently learning Multi Robot Systems and Reinforcement Learning.
 
