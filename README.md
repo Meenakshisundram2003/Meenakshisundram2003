@@ -7,9 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise 
 
 - 🔭 I’m currently working some projects with Stretch-3 Robot.
 
-- 🌱 I’m currently learning Multi Robot Systems and Reinforcement Learning.
-
-- 👯 I’m looking to collaborate on robotics projects, and control systems.
+- 👯 I’m looking to collaborate on reinforcement learning and robotics projects.
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundhar422003@gmail.com) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sundhar2003@outlook.in)
 
